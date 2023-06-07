@@ -2,21 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Promptopia is an open-source AI prompting tool designed for the modern world, allowing users to discover, create, and share creative prompts. It is built using  [Next.js](https://nextjs.org/) for both the frontend and backend, and utilizes MongoDB as the database. The authentication system is implemented using NextAuth.js. This project was developed with the teaching and guidance provided by JavaScript Mastery.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![promptopia picture](https://github.com/ElliotCyber/AI-Prompt-project/assets/75564571/bcbd2298-bf32-4714-abe2-9b821d2a038b)
 
 ## Learn More
 
